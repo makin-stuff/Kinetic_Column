@@ -2,8 +2,9 @@
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
-   <td><a href="https://www.sparkfun.com/products/16832"><img src="https://github.com/makin-stuff/Kinetic_Column/blob/main/Documentation/Process%20Pics/IMG_0625.jpg"></a></td>
-   <td><a href="https://www.sparkfun.com/products/15846"><img src="https://cdn.sparkfun.com//assets/parts/1/4/4/8/0/15846-OpenLog_Artemis-04.jpg"></a></td>
+   <td><a href="https://www.sparkfun.com/products/16832"><img src="https://github.com/makin-stuff/Kinetic_Column/blob/main/Final%20Product/IMG_0875.JPG"></a></td>
+   <td><a href="https://www.sparkfun.com/products/15846"><img src="https://github.com/makin-stuff/Kinetic_Column/blob/main/Final%20Product/IMG_0909.JPG"></a></td>
+    <td><a href="https://www.sparkfun.com/products/15846"><img src="https://github.com/makin-stuff/Kinetic_Column/blob/main/Final%20Product/IMG_0882.JPG"></a></td>
   </tr>
   <tr align="center">
     <td><a href="https://www.sparkfun.com/products/16832">SparkFun OpenLog Artemis (DEV-16832)</a></td>
