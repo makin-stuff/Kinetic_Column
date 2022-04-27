@@ -1,4 +1,4 @@
-# Kinetic_Column
+# "Kinetic Column" by Priyanka Makin
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">
@@ -8,10 +8,10 @@
   </tr>
 </table>
 
-This repo has all the relevant files to recreate "Kinetic Column" by [Priyanka Makin](https://www.priyankamakin.com/).
+This repo has all the design files, code, and documentation for "Kinetic Column" by [Priyanka Makin](https://www.priyankamakin.com/).
 
 Resources:
-* [Blog post](https://www.priyankamakin.com/blog/makin-art-kinetic-column)
+* [Blog post](https://www.priyankamakin.com/blog/makin-art-kinetic-column) for step-by-step build process
 * [Website](https://www.priyankamakin.com/kinetic-column)
 * [Vimeo](https://vimeo.com/user156586846)
 * [Instagram](https://www.instagram.com/priyankasomething/)
