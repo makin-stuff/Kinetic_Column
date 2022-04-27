@@ -6,10 +6,6 @@
    <td><a href="https://www.sparkfun.com/products/15846"><img src="https://github.com/makin-stuff/Kinetic_Column/blob/main/Final%20Product/IMG_0909.JPG"></a></td>
     <td><a href="https://www.sparkfun.com/products/15846"><img src="https://github.com/makin-stuff/Kinetic_Column/blob/main/Final%20Product/IMG_0882.JPG"></a></td>
   </tr>
-  <tr align="center">
-    <td><a href="https://www.sparkfun.com/products/16832">SparkFun OpenLog Artemis (DEV-16832)</a></td>
-    <td><a href="https://www.sparkfun.com/products/15846">SparkX OpenLog Artemis (SPX-15846)</a></td>
-  </tr>
 </table>
 
 The OpenLog Artemis is an open source datalogger that comes preprogrammed to automatically log IMU, GPS, serial data, and various pressure, humidity, and distance sensors. All without writing a single line of code! OLA automatically detects, configures, and logs Qwiic sensors. OLA is designed for users who just need to capture a bunch of data to a CSV and get back to their larger project.
